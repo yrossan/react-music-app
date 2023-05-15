@@ -1,10 +1,12 @@
 [
     {
+        "Icon":"https://upload.wikimedia.org/wikipedia/en/1/1a/Identity_%28Far_East_Movement_album%29.jpg",
         "Album": "Identity",
         "Recorded": "2015-2016",
         "Genre":"EDM, Pop"
     },
-    {
+    {   
+        "Icon":"https://upload.wikimedia.org/wikipedia/en/d/d3/Fareastmovement_freewired.jpg",
         "Album": "Free Wired",
         "Recorded": "2009-2010",
         "Genre":"Dance-pop, Hip Hop"
